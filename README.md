@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/pB5MVHgP/Screenshot-2026-06-10-182114.png" alt="NIGHT FALL Banner" width="100%">
 </p>
 
-<h1 align="center">🌙 NIGHT FALL</h1>
+<h1 align="center">🌙 NIGHT FALL-V1.00</h1>
 
 <p align="center">
   <b>A Powerful Python-Based Discord Self Raiding tool</b><br>
@@ -46,6 +46,11 @@ https://www.gyan.dev/ffmpeg/builds/
 python main.py
 ```
 
+---
+## Config
+* Paste your tokens in `token.txt` , to proceede with tool. [ MUST BE IN LINES ONE IN EACH LINE ]
+* update your spam messages from `msg.txt`
+* You can add more voices just paste them in /voice folder. 
 ---
 
 ## 📖 Requirements
