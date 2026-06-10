@@ -1,8 +1,5 @@
 """
-— Educational Purpose Only
-
--- Licensed and Developed by - Lynx !!
-
+Free for everyone. Redistribution is permitted. Selling this project for any form of currency or payment is strictly prohibited.
 discord --> https://discord.gg/wkZgefCaPA
 """
 
