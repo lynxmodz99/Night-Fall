@@ -1,6 +1,6 @@
 ````md
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="NIGHT FALL Banner" width="100%">
+  <img src="https://i.ibb.co/pB5MVHgP/Screenshot-2026-06-10-182114.png"></a>" alt="NIGHT FALL Banner" width="100%">
 </p>
 
 <h1 align="center">🌙 NIGHT FALL</h1>
@@ -10,27 +10,10 @@
   Fast • Powerful • Minimal
 </p>
 
----
-
-## ✨ Features
-
-- ⚡ Fast & Lightweight
-- 🔥 Multi-Token Support
-- 🎤 Advanced VC Features
-- 🐍 Built with Python
-- 🛠️ Easy to Set Up
-- 📦 Single-File Configuration
-
----
 
 ## 📥 Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Night-Fall.git
-cd Night-Fall
-```
+### 1. Clone the Repository OR download it
 
 ### 2. Install Python Dependencies
 
@@ -74,11 +57,11 @@ python main.py
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you enjoy this project, please consider giving it a **⭐ Star** on GitHub.  
 It helps support future updates and development.
-
+Join support server - https://dsc.gg/lynx-modz
 ---
 
 <p align="center">
