@@ -5,8 +5,8 @@
 <h1 align="center">🌙 NIGHT FALL</h1>
 
 <p align="center">
-  <b>A Powerful Python-Based Discord Utility Suite</b><br>
-  Fast • Powerful • Minimal
+  <b>A Powerful Python-Based Discord Self Raiding tool</b><br>
+  Fast • Powerful 
 </p>
 
 ---
@@ -64,7 +64,3 @@ If you enjoy this project, consider giving it a **⭐ Star** on GitHub. It helps
 **Support Server:** https://dsc.gg/lynx-modz
 
 ---
-
-<p align="center">
-  Made with 🖤 by <b>LYNX</b>
-</p>
