@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/pB5MVHgP/Screenshot-2026-06-10-182114.png" alt="NIGHT FALL Banner" width="100%">
 </p>
 
-<h1 align="center">🌙 NIGHT FALL-V1.00</h1>
+<h1 align="center"> NIGHT FALL-V1.00</h1>
 
 <p align="center">
   <b>A Powerful Python-Based Discord Self Raiding tool</b><br>
